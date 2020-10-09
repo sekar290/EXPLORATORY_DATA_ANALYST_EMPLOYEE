@@ -72,7 +72,7 @@ Here are some conclusion that should become concern on what reason behind of Att
 ### Suggestion
 Here are some suggestion to reduce Attrition:
 - Since mostly Attrition comes from Low Environtment Satisfaction, Employers should improve the work environtment including culture-fit, facilities, safety.
-- Low Job Involvement could effect on employee performance. So to improve employee who have Low JobInvolvement, Employers could adding more Training Times about the job itself or training that could gain motivated for employeer
+- Low Job Involvement could effect on employee performance. So to improve employee who have Low JobInvolvement, Employers could adding more Training Times about the job itself or training that could gain motivated for employee
 - Since Employees who have Bad WorkLifeBalance could be caused by having Travel Frequently and OverWork, so the employers should re-scheduling for the employees or even making policies that fit-well to employees
 - To prevent Low Job Satisfaction of employees, Employers should be better when hiring or placing minimum experience >2 years for every JobRole especially Laboratory Technician and show clearly job previews for the job seeker so it could prevent misconception of what will the employee do.
 
