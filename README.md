@@ -77,7 +77,7 @@ Here are some suggestion to reduce Attrition:
 - To prevent Low Job Satisfaction of employees, Employers should be better when hiring or placing minimum experience >2 years for every JobRole especially Laboratory Technician and show clearly job previews for the job seeker so it could prevent misconception of what will the employee do.
 
 
-For more analyst regarding Attrition, please kindly check on my ipynb file. I also tried explore another features there...\
+For more EDA regarding Attrition, please kindly check on my ipynb file. I also tried explore another features and find another insight there...\
 Thank you!
 
 
