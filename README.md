@@ -79,5 +79,5 @@ Here are some suggestion to reduce Attrition:
 
 For more EDA regarding Attrition, please kindly check on my ipynb file. I also tried explore another features and find another insight there...\
 Thank you!
-
+:)
 
